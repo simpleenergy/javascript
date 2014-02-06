@@ -190,7 +190,7 @@
         var fullName = 'Bob ' + this.lastName;
         ```
 
-    - Strings longer than 80 characters should be written across multiple lines using string concatenation.
+    - Strings longer than 100 characters should be written across multiple lines using string concatenation.
     - Note: If overused, long strings with concatenation could impact performance. [jsPerf](http://jsperf.com/ya-string-concat) & [Discussion](https://github.com/airbnb/javascript/issues/40)
 
         ```javascript
