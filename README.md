@@ -1,4 +1,4 @@
-# Simple Energy JavaScript Style Guide() {
+# Simple Energy JavaScript Style Guide
 
 *A mostly reasonable approach to JavaScript*
 
